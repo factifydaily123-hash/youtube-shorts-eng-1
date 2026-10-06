@@ -411,6 +411,13 @@
       "format": "shocking_fact",
       "title": "Your clocks are hiding extra seconds ⏰",
       "fact": "Every few years, an extra leap second is added to clocks to keep atomic time aligned with the Earth's slightly irregular rotation."
+    },
+    {
+      "date": "2026-10-06T23:44:53",
+      "category": "deep ocean and sea animals",
+      "format": "myth_vs_truth",
+      "title": "The truth about the world's ugliest fish 🐟",
+      "fact": "The blobfish only looks melted and deformed because it lacks bones and suffers extreme tissue damage from rapid decompression when brought to the surface."
     }
   ]
 }
