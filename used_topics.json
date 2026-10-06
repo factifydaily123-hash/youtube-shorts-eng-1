@@ -404,6 +404,13 @@
       "format": "top3",
       "title": "Trees That Explode In Winter 🧊",
       "fact": "Extreme cold causes moisture inside certain trees to freeze and expand so fast that the trunk cracks open like a gunshot."
+    },
+    {
+      "date": "2026-10-06T20:09:18",
+      "category": "time, clocks and calendars",
+      "format": "shocking_fact",
+      "title": "Your clocks are hiding extra seconds ⏰",
+      "fact": "Every few years, an extra leap second is added to clocks to keep atomic time aligned with the Earth's slightly irregular rotation."
     }
   ]
 }
