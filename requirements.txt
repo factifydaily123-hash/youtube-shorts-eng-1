@@ -5,7 +5,7 @@ moviepy==1.0.3
 Pillow==9.5.0
 numpy==1.26.4
 gTTS
-edge-tts
+edge-tts>=6.1.12
 google-api-python-client
 google-auth-oauthlib
 google-auth-httplib2
