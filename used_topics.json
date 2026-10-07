@@ -454,6 +454,18 @@
       "subject_key": "effect placebo",
       "fact": "The placebo effect can reduce symptoms and provide real relief even when patients are aware they are receiving a fake treatment, known as the open-label placebo effect.",
       "fingerprint": "mechanism testament treatment medicine powerful anxiety natural patient placebo provide relieve symptom trigger effect happen killer receiv reduce releas relief"
+    },
+    {
+      "date": "2026-10-07T15:59:33",
+      "category": "insects and tiny creatures",
+      "format": "myth_vs_truth",
+      "hook_style": "number_shock",
+      "loop_style": "mirror_loop",
+      "title": "Spiders: Eight Legs, Not Insects! 🕷️",
+      "subject": "spider",
+      "subject_key": "spider",
+      "fact": "Spiders are arachnids, not insects, distinguished by having eight legs and two body segments instead of six legs and three segments.",
+      "fingerprint": "structurally distinguish different actually antennae arachnid another instead segment totally usually creepy design either insect notice spider unique apart boast"
     }
   ]
 }
