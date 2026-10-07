@@ -442,6 +442,18 @@
       "title": "These Common Foods Can POISON You! 😱",
       "fact": "Raw red kidney beans, rhubarb leaves, and green parts of potatoes contain natural toxins that can cause severe illness if not prepared or avoided properly.",
       "fingerprint": "avoided beans can cause common contain foods green illness kidney leaves natural"
+    },
+    {
+      "date": "2026-10-07T10:07:32",
+      "category": "psychology and everyday human habits",
+      "format": "shocking_fact",
+      "hook_style": "impossible_claim",
+      "loop_style": "answer_loop",
+      "title": "Your Brain Makes Fake Pills Work?! 🤯",
+      "subject": "placebo effect",
+      "subject_key": "effect placebo",
+      "fact": "The placebo effect can reduce symptoms and provide real relief even when patients are aware they are receiving a fake treatment, known as the open-label placebo effect.",
+      "fingerprint": "mechanism testament treatment medicine powerful anxiety natural patient placebo provide relieve symptom trigger effect happen killer receiv reduce releas relief"
     }
   ]
 }
