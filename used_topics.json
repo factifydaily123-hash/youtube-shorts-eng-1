@@ -514,6 +514,18 @@
       "subject_key": "bee wing",
       "fact": "A bee's wings beat up to 200 times per second due to stretch-activated asynchronous flight muscles, meaning they do not require a separate brain signal for each beat.",
       "fingerprint": "automatically asynchronou activation activate movement separate activat require stretch faster flight second signal twitch unique brain muscl trick beat each"
+    },
+    {
+      "date": "2026-10-08T20:06:05",
+      "category": "volcanoes, lava, earthquakes, sinkholes and the Earth's wild side",
+      "format": "personal_what_if",
+      "hook_style": "direct_question",
+      "loop_style": "mirror_loop",
+      "title": "What Happens If A Sinkhole Swallows You? 😱",
+      "subject": "sinkhole",
+      "subject_key": "sinkhole",
+      "fact": "Sinkholes form when underground caverns collapse, posing extreme danger due to the initial fall and subsequent burial by rapidly collapsing debris and earth.",
+      "fingerprint": "underground subsequent instantly collapse normally sinkhole suddenly surround collaps continu everyth extreme initial rapidly sinkhol swallow burial cavern danger ground"
     }
   ]
 }
