@@ -466,6 +466,18 @@
       "subject_key": "spider",
       "fact": "Spiders are arachnids, not insects, distinguished by having eight legs and two body segments instead of six legs and three segments.",
       "fingerprint": "structurally distinguish different actually antennae arachnid another instead segment totally usually creepy design either insect notice spider unique apart boast"
+    },
+    {
+      "date": "2026-10-08T00:15:51",
+      "category": "technology, robots, computers and smartphones",
+      "format": "personal_what_if",
+      "hook_style": "direct_question",
+      "loop_style": "answer_loop",
+      "title": "Will YOUR Photos Last Forever? 🤯",
+      "subject": "5d data storage",
+      "subject_key": "data storage",
+      "fact": "Scientists have developed 5D data storage in synthetic quartz glass, capable of preserving digital information for billions of years, even under extreme conditions.",
+      "fingerprint": "information incredible condition literally radiation scientist synthetic duration material surprise survival billion capable develop digital extreme forever library massive preciou"
     }
   ]
 }
