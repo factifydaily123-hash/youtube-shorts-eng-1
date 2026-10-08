@@ -490,6 +490,30 @@
       "subject_key": "dam hydroelectric",
       "fact": "Hydroelectric dams are complex engineered structures with internal systems designed to manage immense water pressure and even flex, not just solid walls.",
       "fingerprint": "hydroelectric constantly structure concrete engineer internal movement pressure slightly structur against beneath complex exactly immense inspect prevent surface design handle"
+    },
+    {
+      "date": "2026-10-08T15:59:41",
+      "category": "food and cooking science (things you can watch sizzle, freeze, burn or rise)",
+      "format": "myth_vs_truth",
+      "hook_style": "warning",
+      "loop_style": "mirror_loop",
+      "title": "NEVER Put Metal In A Microwave! 🤯",
+      "subject": "microwave metal",
+      "subject_key": "metal microwave",
+      "fact": "Placing metal in a microwave oven generates destructive electric arcs due to the appliance's powerful electromagnetic fields, which can permanently damage the microwave.",
+      "fingerprint": "electromagnetic destructive permanently appliance microwave electric powerful generat harmles science charge damage happen lightn strong build creat field metal never"
+    },
+    {
+      "date": "2026-10-08T16:04:04",
+      "category": "tiny creatures under a macro lens (ants, bees, spiders, butterflies)",
+      "format": "mystery_explained",
+      "hook_style": "number_shock",
+      "loop_style": "answer_loop",
+      "title": "How Do Bee Wings Beat 200 Times Per Second? 🐝",
+      "subject": "bee wings",
+      "subject_key": "bee wing",
+      "fact": "A bee's wings beat up to 200 times per second due to stretch-activated asynchronous flight muscles, meaning they do not require a separate brain signal for each beat.",
+      "fingerprint": "automatically asynchronou activation activate movement separate activat require stretch faster flight second signal twitch unique brain muscl trick beat each"
     }
   ]
 }
