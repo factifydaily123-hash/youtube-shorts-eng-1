@@ -478,6 +478,18 @@
       "subject_key": "data storage",
       "fact": "Scientists have developed 5D data storage in synthetic quartz glass, capable of preserving digital information for billions of years, even under extreme conditions.",
       "fingerprint": "information incredible condition literally radiation scientist synthetic duration material surprise survival billion capable develop digital extreme forever library massive preciou"
+    },
+    {
+      "date": "2026-10-08T09:02:29",
+      "category": "megastructures, bridges, dams, trains and machines (how they really work)",
+      "format": "top3",
+      "hook_style": "contradiction",
+      "loop_style": "lead_in_loop",
+      "title": "Dams aren't just solid concrete blocks! 🤯",
+      "subject": "hydroelectric dam",
+      "subject_key": "dam hydroelectric",
+      "fact": "Hydroelectric dams are complex engineered structures with internal systems designed to manage immense water pressure and even flex, not just solid walls.",
+      "fingerprint": "hydroelectric constantly structure concrete engineer internal movement pressure slightly structur against beneath complex exactly immense inspect prevent surface design handle"
     }
   ]
 }
