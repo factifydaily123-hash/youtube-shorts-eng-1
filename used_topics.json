@@ -526,6 +526,18 @@
       "subject_key": "sinkhole",
       "fact": "Sinkholes form when underground caverns collapse, posing extreme danger due to the initial fall and subsequent burial by rapidly collapsing debris and earth.",
       "fingerprint": "underground subsequent instantly collapse normally sinkhole suddenly surround collaps continu everyth extreme initial rapidly sinkhol swallow burial cavern danger ground"
+    },
+    {
+      "date": "2026-10-09T00:36:51",
+      "category": "ancient ruins, pyramids, temples and lost civilizations",
+      "format": "top3",
+      "hook_style": "contradiction",
+      "loop_style": "answer_loop",
+      "title": "Puma Punku: Ancient stone cuts defy logic! 🤯",
+      "subject": "puma punku stones",
+      "subject_key": "puma punku ston",
+      "fact": "Ancient builders at sites like Puma Punku achieved stone cutting precision that remains a mystery for their era, challenging conventional understanding of ancient technology.",
+      "fingerprint": "conventional incredible technology understand interlock perfectly precision stonework challeng ancient builder mystery precise achiev modern remain block crazy known logic"
     }
   ]
 }
