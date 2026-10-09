@@ -550,6 +550,30 @@
       "subject_key": "anchor bia",
       "fact": "Our choices are unconsciously influenced by the first number we encounter, even if irrelevant, due to a cognitive bias known as anchoring.",
       "fingerprint": "unconsciously completely irrelevant subsequent cognitive encounter decision influenc judgment believe control strange anchor immune number random choic first known small"
+    },
+    {
+      "date": "2026-10-09T20:13:48",
+      "category": "social psychology: crowds, conformity, persuasion, why we copy others",
+      "format": "mystery_explained",
+      "hook_style": "warning",
+      "loop_style": "answer_loop",
+      "title": "Why You Follow The Crowd! 🤔",
+      "subject": "social proof",
+      "subject_key": "proof social",
+      "fact": "People often conform to group behavior, even against their own judgment, to fit in or avoid conflict, due to the power of social proof.",
+      "fingerprint": "unconsciou behavior conflict instinct judgment pressure against conform weaknes astray follow hidden people safety social avoid brain crowd exist group"
+    },
+    {
+      "date": "2026-10-09T20:16:24",
+      "category": "memory: why we forget, false memories, why we remember some things forever",
+      "format": "personal_what_if",
+      "hook_style": "why_want",
+      "loop_style": "lead_in_loop",
+      "title": "Why Do Jingles Get Stuck In Your Head? 🎶",
+      "subject": "music memory",
+      "subject_key": "memory music",
+      "fact": "Music can powerfully evoke specific autobiographical memories by creating strong emotional and neural connections, a phenomenon often leveraged by brands.",
+      "fingerprint": "autobiographical unbreakable connection phenomenon powerfully emotional instantly activate powerful remember shortcut specific deepest exactly leverag million product trigger catchy memory"
     }
   ]
 }
