@@ -586,6 +586,18 @@
       "subject_key": "praise psychology",
       "fact": "Praising children for their intelligence can lead to a fixed mindset, making them fear challenges and mistakes, whereas praising effort fosters resilience and a growth mindset.",
       "fingerprint": "intelligence confidence motivation psychology resilience actually challeng children encourag smartnes instead mindset effort foster growth mistak praise secret wherea avoid"
+    },
+    {
+      "date": "2026-10-10T09:43:01",
+      "category": "sleep, dreams and tiredness: what they do to mood and behaviour",
+      "format": "shocking_fact",
+      "hook_style": "you_scenario",
+      "loop_style": "mirror_loop",
+      "title": "Why Your Tired Brain Lies To You 🧠",
+      "subject": "sleep deprivation social perception",
+      "subject_key": "deprivation perception sleep social",
+      "fact": "When you are sleep-deprived, your brain struggles to correctly interpret social cues, often misreading neutral or even positive facial expressions as angry or threatening.",
+      "fingerprint": "deprivation expression perception correctly interpret sensitive amygdala positive threaten misread neutral struggl center depriv facial people signal social alter angry"
     }
   ]
 }
