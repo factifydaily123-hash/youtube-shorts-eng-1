@@ -610,6 +610,18 @@
       "subject_key": "psychology text",
       "fact": "Overthinking short or ambiguous text messages trains your brain to anticipate negativity, creating a self-fulfilling prophecy in relationships.",
       "fingerprint": "relationship anticipate insecurity negativity psychology experienc literally overthink ambiguou negative prophecy scenario fulfill trouble expect itself messag brain creat exist"
+    },
+    {
+      "date": "2026-10-12T01:47:24",
+      "category": "shopping, money and attention psychology: why we buy, scroll and get hooked",
+      "format": "myth_vs_truth",
+      "hook_style": "direct_question",
+      "loop_style": "answer_loop",
+      "title": "$19.99: Your Brain's Shopping Trick! 🧠",
+      "subject": "shopping psychology",
+      "subject_key": "psychology shop",
+      "fact": "The left-digit effect makes prices ending in .99 appear significantly cheaper by focusing the brain on the first digit, subconsciously influencing purchase decisions.",
+      "fingerprint": "subconsciously significantly psychology actually decision influenc probably purchase cheaper process product appear better dollar effect nobody number brain digit first"
     }
   ]
 }
