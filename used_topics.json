@@ -634,6 +634,18 @@
       "subject_key": "multitask",
       "fact": "Most people cannot truly multitask; their brains rapidly switch between tasks, which is less efficient and prone to errors.",
       "fingerprint": "significantly efficient multitask actually constant everyone between percent perform rapidly cannot energy mistak nobody people switch brain drain error prone"
+    },
+    {
+      "date": "2026-10-13T01:39:08",
+      "category": "everyday human behaviour: why people do small things in daily life (phone, friends, family, work)",
+      "format": "shocking_fact",
+      "hook_style": "contradiction",
+      "loop_style": "answer_loop",
+      "title": "Why You CONSTANTLY Check Your Phone 📱",
+      "subject": "digital habits",
+      "subject_key": "digital habit",
+      "fact": "Habitual phone checking, even without new notifications, is often driven by a dopamine-fueled reward system, not actual necessity, creating an addiction-like loop.",
+      "fingerprint": "notification constantly addiction necessity dopamine habitual powerful connect deliver digital without actual driven reason reward system brain check creat habit"
     }
   ]
 }
