@@ -646,6 +646,42 @@
       "subject_key": "digital habit",
       "fact": "Habitual phone checking, even without new notifications, is often driven by a dopamine-fueled reward system, not actual necessity, creating an addiction-like loop.",
       "fingerprint": "notification constantly addiction necessity dopamine habitual powerful connect deliver digital without actual driven reason reward system brain check creat habit"
+    },
+    {
+      "date": "2026-10-13T20:48:23",
+      "category": "decision making, cognitive biases and why smart people make silly choices",
+      "format": "top3",
+      "hook_style": "stop_doing",
+      "loop_style": "lead_in_loop",
+      "title": "Why Your Brain Confirms What You Already Believe",
+      "subject": "confirmation bias",
+      "subject_key": "bia confirmation",
+      "fact": "Confirmation bias causes people to seek out and interpret information in a way that confirms their preexisting beliefs, leading to biased decision-making and a skewed perception of reality.",
+      "fingerprint": "confirmation comfortable information perception interpret decision preexist solution already believe confirm exactly reality belief better filter obviou people anyth blind"
+    },
+    {
+      "date": "2026-10-13T20:51:14",
+      "category": "social psychology: crowds, conformity, persuasion, why we copy others",
+      "format": "personal_what_if",
+      "hook_style": "impossible_claim",
+      "loop_style": "answer_loop",
+      "title": "Your Brain Copies Strangers?! 🤯",
+      "subject": "unconscious mimicry",
+      "subject_key": "mimicry unconsciou",
+      "fact": "Humans unconsciously mimic the posture, mannerisms, and facial expressions of others to build rapport and increase liking.",
+      "fingerprint": "automatically unconsciously connection expression unconsciou mannerism increase stranger mimicry posture rapport create facial gestur rhythm unique adopt brain build human"
+    },
+    {
+      "date": "2026-10-13T20:52:30",
+      "category": "psychology of habits, procrastination, motivation and willpower",
+      "format": "myth_vs_truth",
+      "hook_style": "payoff_promise",
+      "loop_style": "lead_in_loop",
+      "title": "The 5-Second Rule: Stop Procrastination 🤯",
+      "subject": "procrastination psychology",
+      "subject_key": "procrastination psychology",
+      "fact": "The 5-second rule works by interrupting your brain's natural tendency to overthink and create excuses, forcing immediate action.",
+      "fingerprint": "procrastination immediately psychology resistance immediate interrupt overthink tendency comfort exactly natural quickly action bypass create second window brain count delay"
     }
   ]
 }
