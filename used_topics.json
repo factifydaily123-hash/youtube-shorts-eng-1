@@ -706,6 +706,18 @@
       "subject_key": "memory reconstructive",
       "fact": "Human memory is reconstructive, meaning each recall can subtly alter the original memory, sometimes creating completely false recollections.",
       "fingerprint": "reconstructive recollection information absolutely completely suggestion recording actively actually entirely original certain exactly perfect rebuild sometim change detail happen memory"
+    },
+    {
+      "date": "2026-10-14T02:19:12",
+      "category": "sleep, dreams and tiredness: what they do to mood and behaviour",
+      "format": "myth_vs_truth",
+      "hook_style": "warning",
+      "loop_style": "mirror_loop",
+      "title": "Stop Hitting Snooze! ⏰ (Here's Why)",
+      "subject": "sleep inertia",
+      "subject_key": "inertia sleep",
+      "fact": "Repeatedly hitting the snooze button fragments your sleep, leading to a phenomenon called sleep inertia, which makes you feel more tired and disoriented than if you woke up with the first alarm.",
+      "fingerprint": "psychological phenomenon repeatedly disorient actually complete fragment exactly inertia trigger button groggy impact snooze alarm brain clock cycle extra first"
     }
   ]
 }
