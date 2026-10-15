@@ -718,6 +718,18 @@
       "subject_key": "inertia sleep",
       "fact": "Repeatedly hitting the snooze button fragments your sleep, leading to a phenomenon called sleep inertia, which makes you feel more tired and disoriented than if you woke up with the first alarm.",
       "fingerprint": "psychological phenomenon repeatedly disorient actually complete fragment exactly inertia trigger button groggy impact snooze alarm brain clock cycle extra first"
+    },
+    {
+      "date": "2026-10-15T02:06:11",
+      "category": "friendship, relationships, texting, jealousy and loneliness (well-established findings only)",
+      "format": "top3",
+      "hook_style": "payoff_promise",
+      "loop_style": "answer_loop",
+      "title": "Your Brain When 'That' Text Pops Up 📱",
+      "subject": "relationship jealousy",
+      "subject_key": "jealousy relationship",
+      "fact": "When a romantic partner receives a potentially ambiguous text, the brain can interpret it as a social threat, triggering primal jealousy and causing it to immediately construct protective narratives.",
+      "fingerprint": "relationship immediately potentially protective construct instantly interpret ambiguou instinct jealousy narrativ romantic scenario partner trigger clench defend happen primal receiv"
     }
   ]
 }
