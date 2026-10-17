@@ -742,6 +742,18 @@
       "subject_key": "emotional suppression",
       "fact": "Consciously suppressing emotions does not make them disappear; instead, it tends to intensify and prolong the emotional experience, leading to increased psychological distress.",
       "fingerprint": "psychological unexpectedly consciously suppression experience disappear emotional intensify stronger suppress distres emotion feeling increas instead prolong harder longer vanish block"
+    },
+    {
+      "date": "2026-10-16T23:59:07",
+      "category": "focus and attention: why the mind wanders, multitasking, distraction",
+      "format": "shocking_fact",
+      "hook_style": "direct_question",
+      "loop_style": "answer_loop",
+      "title": "Why You MISS Obvious Things! 🧠",
+      "subject": "selective attention",
+      "subject_key": "attention selective",
+      "fact": "When your brain is deeply focused on one thing, it can entirely miss other obvious things happening right in front of you due to a phenomenon called inattentional blindness.",
+      "fingerprint": "inattentional phenomenon attention disappear selective strangest blindnes entirely gorilla deeply filter happen obviou people brain count focus front often other"
     }
   ]
 }
