@@ -754,6 +754,42 @@
       "subject_key": "attention selective",
       "fact": "When your brain is deeply focused on one thing, it can entirely miss other obvious things happening right in front of you due to a phenomenon called inattentional blindness.",
       "fingerprint": "inattentional phenomenon attention disappear selective strangest blindnes entirely gorilla deeply filter happen obviou people brain count focus front often other"
+    },
+    {
+      "date": "2026-10-17T17:12:59",
+      "category": "shopping, money and attention psychology: why we buy, scroll and get hooked",
+      "format": "top3",
+      "hook_style": "warning",
+      "loop_style": "mirror_loop",
+      "title": "Why You Make Bad Decisions When Tired 🤔",
+      "subject": "decision fatigue",
+      "subject_key": "decision fatigue",
+      "fact": "Decision fatigue explains how our capacity for making good choices depletes over time, making us vulnerable to poor decisions and impulse buying, a phenomenon often leveraged by marketers.",
+      "fingerprint": "irresistible phenomenon vulnerable willpower capacity decision marketer retailer against explain fatigue impulse leverag payment choice choose deplet energy mental method"
+    },
+    {
+      "date": "2026-10-17T17:15:06",
+      "category": "everyday human behaviour: why people do small things in daily life (phone, friends, family, work)",
+      "format": "myth_vs_truth",
+      "hook_style": "impossible_claim",
+      "loop_style": "lead_in_loop",
+      "title": "Your Brain's Spotlight Lie! 💡",
+      "subject": "social perception self consciousness",
+      "subject_key": "consciousnes perception self social",
+      "fact": "The spotlight effect is a psychological phenomenon where individuals overestimate how much others notice their appearance, behavior, and mistakes, when in reality, most people are focused on their own internal experiences.",
+      "fingerprint": "psychological consciousnes overestimate appearance individual perception phenomenon attention experienc spotlight actually behavior everyone internal themselv exactly mistake reality center effect"
+    },
+    {
+      "date": "2026-10-17T17:15:40",
+      "category": "psychology of habits, procrastination, motivation and willpower",
+      "format": "personal_what_if",
+      "hook_style": "you_scenario",
+      "loop_style": "mirror_loop",
+      "title": "Why Your Brain Quits Habits So Easily 🧠",
+      "subject": "habit breakdown",
+      "subject_key": "breakdown habit",
+      "fact": "The 'what the hell effect' causes a single slip-up in a new habit to trigger complete abandonment of the entire goal.",
+      "fingerprint": "abandonment completely breakdown complete abandon convinc healthy mistake strange trigger easily effect entire happen single brain habit start whole caus"
     }
   ]
 }
