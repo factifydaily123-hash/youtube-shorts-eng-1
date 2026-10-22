@@ -826,6 +826,30 @@
       "subject_key": "intrinsic motivation",
       "fact": "External rewards can decrease a person's intrinsic motivation to perform a task they previously enjoyed.",
       "fingerprint": "motivation previously intrinsic decrease external already passion perform nobody person reduce reward brain enjoy prize think here kill task tell"
+    },
+    {
+      "date": "2026-10-22T02:04:12",
+      "category": "social psychology: crowds, conformity, persuasion, why we copy others",
+      "format": "personal_what_if",
+      "hook_style": "you_scenario",
+      "loop_style": "lead_in_loop",
+      "title": "Your Brain Betrays Your Eyes 🧠",
+      "subject": "conformity bias",
+      "subject_key": "bia conformity",
+      "fact": "Your brain prioritizes group consensus over your own sensory perception, leading you to doubt what you clearly see if a group unanimously disagrees.",
+      "fingerprint": "unanimously conformity perception prioritiz consensu everyone another clearly correct disagre exactly imagine sensory around betray insist loudly someth assum brain"
+    },
+    {
+      "date": "2026-10-22T02:06:20",
+      "category": "friendship, relationships, texting, jealousy and loneliness (well-established findings only)",
+      "format": "top3",
+      "hook_style": "number_shock",
+      "loop_style": "answer_loop",
+      "title": "Why Do We Feel So Alone? 😢",
+      "subject": "loneliness",
+      "subject_key": "lonelines",
+      "fact": "The paradox of increasing loneliness despite pervasive digital connectivity is due to a lack of meaningful social connection, which the brain interprets as a physical threat.",
+      "fingerprint": "connectivity connection meaningful intensely interpret isolation lonelines pervasive physical presence surround contact despite digital explain hundred increas paradox friend lonely"
     }
   ]
 }
