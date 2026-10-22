@@ -850,6 +850,42 @@
       "subject_key": "lonelines",
       "fact": "The paradox of increasing loneliness despite pervasive digital connectivity is due to a lack of meaningful social connection, which the brain interprets as a physical threat.",
       "fingerprint": "connectivity connection meaningful intensely interpret isolation lonelines pervasive physical presence surround contact despite digital explain hundred increas paradox friend lonely"
+    },
+    {
+      "date": "2026-10-22T21:09:03",
+      "category": "focus and attention: why the mind wanders, multitasking, distraction",
+      "format": "shocking_fact",
+      "hook_style": "contradiction",
+      "loop_style": "lead_in_loop",
+      "title": "Your Mind Wanders More Than You Think 🤔",
+      "subject": "mind wandering",
+      "subject_key": "mind wander",
+      "fact": "Our minds wander for a significant portion of our waking hours, even when we intend to focus on a task.",
+      "fingerprint": "concentrate significant essential actually everyone default exactly portion surpris happen intend nearly proces wander brain drift refus state think focu"
+    },
+    {
+      "date": "2026-10-22T21:11:23",
+      "category": "shopping, money and attention psychology: why we buy, scroll and get hooked",
+      "format": "personal_what_if",
+      "hook_style": "payoff_promise",
+      "loop_style": "answer_loop",
+      "title": "Your Brain's CRAZY Money Trick! 🤯",
+      "subject": "mental accounting",
+      "subject_key": "account mental",
+      "fact": "Your brain doesn't see all money as the same; it assigns different 'mental accounts' to funds based on their source or intended use, affecting spending habits.",
+      "fingerprint": "different paycheck probably unexpect account exactly affect assign faster intend mental really source brain crazy creat doesn found habit money"
+    },
+    {
+      "date": "2026-10-22T21:14:01",
+      "category": "memory: why we forget, false memories, why we remember some things forever",
+      "format": "myth_vs_truth",
+      "hook_style": "stop_doing",
+      "loop_style": "mirror_loop",
+      "title": "STOP Forcing Your Memory! 🤯",
+      "subject": "memory recall",
+      "subject_key": "memory recall",
+      "fact": "Recalling one specific memory can suppress and make you forget other related memories, a phenomenon known as retrieval-induced forgetting.",
+      "fingerprint": "phenomenon highlight retrieval actually specific stronger suppress similar suppres delete forget memory recall brain focus induc known other relat think"
     }
   ]
 }
