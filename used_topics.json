@@ -898,6 +898,42 @@
       "subject_key": "impulsivity tirednes",
       "fact": "When you're tired, your brain's prefrontal cortex (responsible for self-control) is less active, making you more prone to impulsive decisions and giving in to cravings.",
       "fingerprint": "impulsivity responsible prefrontal impulsive willpower decision tirednes control craving exactly exhaust offline struggl active center cortex lowest regret simply brain"
+    },
+    {
+      "date": "2026-10-24T20:02:35",
+      "category": "psychology of habits, procrastination, motivation and willpower",
+      "format": "personal_what_if",
+      "hook_style": "you_scenario",
+      "loop_style": "answer_loop",
+      "title": "Why Your Brain Resists Starting Tasks! 🤯",
+      "subject": "activation energy",
+      "subject_key": "activation energy",
+      "fact": "The brain creates a mental 'activation energy' or friction for initiating any task, even simple ones, to conserve effort.",
+      "fingerprint": "activation conserve friction initiat effort energy harder mental resist simple brain creat drain start weird chor feel here huge like"
+    },
+    {
+      "date": "2026-10-24T20:05:57",
+      "category": "everyday human behaviour: why people do small things in daily life (phone, friends, family, work)",
+      "format": "mystery_explained",
+      "hook_style": "warning",
+      "loop_style": "lead_in_loop",
+      "title": "Your Brain LIES To You About Likes 🤯",
+      "subject": "mere exposure effect",
+      "subject_key": "effect exposure mere",
+      "fact": "The mere-exposure effect causes you to develop a preference for things or people simply because you are familiar with them, not necessarily due to their inherent quality.",
+      "fingerprint": "familiarity necessarily preference repeatedly exposure familiar inherent secretly develop quality strange appeal become effect people simply subtle anyth brain learn"
+    },
+    {
+      "date": "2026-10-24T20:08:22",
+      "category": "childhood, learning and curiosity: how people learn and why praise/habits stick",
+      "format": "myth_vs_truth",
+      "hook_style": "stop_doing",
+      "loop_style": "answer_loop",
+      "title": "Stop 'Helping' Them Learn So Fast! 💡",
+      "subject": "learning process",
+      "subject_key": "learn proces",
+      "fact": "Intervening too quickly when someone is struggling to learn can actually prevent deeper understanding and long-term retention, as productive struggle is essential for forming stronger memories.",
+      "fingerprint": "immediately productive understand essential knowledge retention actually challeng interven stronger struggle grapple impulse prevent progres quickly someone struggl common deeper"
     }
   ]
 }
