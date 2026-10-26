@@ -934,6 +934,18 @@
       "subject_key": "learn proces",
       "fact": "Intervening too quickly when someone is struggling to learn can actually prevent deeper understanding and long-term retention, as productive struggle is essential for forming stronger memories.",
       "fingerprint": "immediately productive understand essential knowledge retention actually challeng interven stronger struggle grapple impulse prevent progres quickly someone struggl common deeper"
+    },
+    {
+      "date": "2026-10-26T01:32:48",
+      "category": "decision making, cognitive biases and why smart people make silly choices",
+      "format": "shocking_fact",
+      "hook_style": "contradiction",
+      "loop_style": "lead_in_loop",
+      "title": "Why Your Brain Fails at Luck 🎲",
+      "subject": "prediction error",
+      "subject_key": "error prediction",
+      "fact": "People erroneously believe that past random events influence the probability of future independent random events, a cognitive bias known as the Gambler's Fallacy.",
+      "fingerprint": "erroneously independent probability prediction cognitive influence opposite believe connect exactly fallacy gambler outcome change expect future people random result brain"
     }
   ]
 }
