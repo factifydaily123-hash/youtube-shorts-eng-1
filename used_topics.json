@@ -958,6 +958,30 @@
       "subject_key": "psychology worry",
       "fact": "Your brain uses worry as an evolutionary protective mechanism, exaggerating potential threats and the duration of negative emotions to prepare you for the worst, even if it causes stress.",
       "fingerprint": "evolutionary constantly protective psychology exaggerat mechanism potential duration negative scenario secretly weirdest believe emotion feeling forever prepare imagin intend threat"
+    },
+    {
+      "date": "2026-10-27T22:07:51",
+      "category": "focus and attention: why the mind wanders, multitasking, distraction",
+      "format": "myth_vs_truth",
+      "hook_style": "payoff_promise",
+      "loop_style": "lead_in_loop",
+      "title": "🤯 Why Task Switching Kills Your Focus",
+      "subject": "attention residue",
+      "subject_key": "attention residue",
+      "fact": "Your brain doesn't instantly switch tasks; attention lingers from previous activities, creating 'attention residue' that impairs new task performance.",
+      "fingerprint": "performance attention instantly activity leftover exactly previou residue struggl thought impair linger mental report switch tackle brain creat doesn email"
+    },
+    {
+      "date": "2026-10-27T22:08:28",
+      "category": "shopping, money and attention psychology: why we buy, scroll and get hooked",
+      "format": "shocking_fact",
+      "hook_style": "impossible_claim",
+      "loop_style": "answer_loop",
+      "title": "Your Brain Falls For This Shopping Trick! 🤯",
+      "subject": "decoy effect",
+      "subject_key": "decoy effect",
+      "fact": "The decoy effect explains how the introduction of an asymmetrically dominated third option can manipulate consumers' preferences between two other options, steering them toward a specific choice.",
+      "fingerprint": "asymmetrically automatically introduction impossible manipulate manipulat preferenc consumer secretly specific superior another between company dominat explain product better choice effect"
     }
   ]
 }
