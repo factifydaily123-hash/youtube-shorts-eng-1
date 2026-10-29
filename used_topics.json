@@ -982,6 +982,18 @@
       "subject_key": "decoy effect",
       "fact": "The decoy effect explains how the introduction of an asymmetrically dominated third option can manipulate consumers' preferences between two other options, steering them toward a specific choice.",
       "fingerprint": "asymmetrically automatically introduction impossible manipulate manipulat preferenc consumer secretly specific superior another between company dominat explain product better choice effect"
+    },
+    {
+      "date": "2026-10-29T00:04:58",
+      "category": "social psychology: crowds, conformity, persuasion, why we copy others",
+      "format": "top3",
+      "hook_style": "warning",
+      "loop_style": "lead_in_loop",
+      "title": "Why Crowds Don't Help Strangers 🤯",
+      "subject": "bystander effect",
+      "subject_key": "bystander effect",
+      "fact": "The bystander effect describes how individuals are less likely to offer help to a victim when other people are present, due to a diffusion of responsibility.",
+      "fingerprint": "responsibility individual psychology bystander diffusion strangely everyone stranger describ exactly paralyz present someone diffus effect expect likely people person victim"
     }
   ]
 }
