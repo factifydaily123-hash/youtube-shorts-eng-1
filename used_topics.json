@@ -994,6 +994,30 @@
       "subject_key": "bystander effect",
       "fact": "The bystander effect describes how individuals are less likely to offer help to a victim when other people are present, due to a diffusion of responsibility.",
       "fingerprint": "responsibility individual psychology bystander diffusion strangely everyone stranger describ exactly paralyz present someone diffus effect expect likely people person victim"
+    },
+    {
+      "date": "2026-10-29T22:59:06",
+      "category": "sleep, dreams and tiredness: what they do to mood and behaviour",
+      "format": "myth_vs_truth",
+      "hook_style": "why_want",
+      "loop_style": "answer_loop",
+      "title": "Why Your Tired Brain Wants Arguments 🤯",
+      "subject": "sleep deprivation arguments",
+      "subject_key": "argument deprivation sleep",
+      "fact": "Being tired significantly reduces your brain's ability to regulate emotions and empathize, leading to a greater propensity for conflict and arguments.",
+      "fingerprint": "significantly deprivation propensity emotional empathize grumpines actually argument conflict regulate ability control emotion empathy greater justify misread social weaken being"
+    },
+    {
+      "date": "2026-10-29T23:02:22",
+      "category": "psychology of first impressions, attraction and body language (only well-established findings)",
+      "format": "personal_what_if",
+      "hook_style": "number_shock",
+      "loop_style": "lead_in_loop",
+      "title": "Your Eyes Betray Your Crush! 👀",
+      "subject": "subconscious attraction",
+      "subject_key": "attraction subconsciou",
+      "fact": "People's pupils involuntarily dilate when they are interested or attracted, and this dilation is subconsciously perceived as more attractive by others.",
+      "fingerprint": "subconsciously involuntarily subconsciou attraction attractive dilation interest perceive attract emotion perceiv without betray change dilate happen notice people strong subtle"
     }
   ]
 }
