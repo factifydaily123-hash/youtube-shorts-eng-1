@@ -1030,6 +1030,18 @@
       "subject_key": "monitor self",
       "fact": "The compulsive need to check one's appearance in reflections or screens is a brain mechanism attempting to control social perception and reduce anxiety, but it often increases self-consciousness and drains mental energy.",
       "fingerprint": "consciousnes appearance compulsive constantly perception reflection mechanism actually constant judgment perceive anxiety attempt control increas monitor predict energy mental reduce"
+    },
+    {
+      "date": "2026-11-01T01:15:18",
+      "category": "friendship, relationships, texting, jealousy and loneliness (well-established findings only)",
+      "format": "top3",
+      "hook_style": "contradiction",
+      "loop_style": "lead_in_loop",
+      "title": "Your Friends' Posts Make You Sad?! 📱",
+      "subject": "social comparison",
+      "subject_key": "comparison social",
+      "fact": "Social comparison, especially with idealized online portrayals of friendships, often leads to decreased satisfaction with one's own relationships and increased feelings of loneliness.",
+      "fingerprint": "relationship satisfaction expectation unrealistic comparison especially friendship lonelines portrayal actually secretly decreas exactly feeling idealiz increas perfect friend inspir lonely"
     }
   ]
 }
