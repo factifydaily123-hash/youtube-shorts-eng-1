@@ -1054,6 +1054,30 @@
       "subject_key": "effect fresh start",
       "fact": "The 'fresh start effect' leverages temporal landmarks like new weeks or months to boost motivation and help individuals initiate new goals or habits, seeing them as opportunities to leave past failures behind.",
       "fingerprint": "opportunity significant individual motivation beginning willpower initiate landmark shortcut temporal leverag behind button effect failur itself secret boost brain chang"
+    },
+    {
+      "date": "2026-11-02T20:41:13",
+      "category": "memory: why we forget, false memories, why we remember some things forever",
+      "format": "shocking_fact",
+      "hook_style": "number_shock",
+      "loop_style": "lead_in_loop",
+      "title": "Why Your Vivid Memories Are Emotional 🤔",
+      "subject": "emotional memory",
+      "subject_key": "emotional memory",
+      "fact": "Emotional arousal makes memories significantly more vivid and long-lasting, often feeling permanently etched.",
+      "fingerprint": "embarrassment significantly permanently emotional permanent powerful arousal crucial emotion exactly hormon memory moment replay sudden system brain event flood often"
+    },
+    {
+      "date": "2026-11-02T20:44:19",
+      "category": "decision making, cognitive biases and why smart people make silly choices",
+      "format": "personal_what_if",
+      "hook_style": "you_scenario",
+      "loop_style": "answer_loop",
+      "title": "Why Your Brain TRICKS You Daily! 🤯",
+      "subject": "availability heuristic",
+      "subject_key": "availability heuristic",
+      "fact": "The availability heuristic makes your brain overestimate the likelihood of events that are easily recalled, even if they are statistically rare.",
+      "fingerprint": "statistically availability overestimate incredibly likelihood heuristic shortcut suddenly mistake easily happen mental recall sneaky brain choic crash daily event often"
     }
   ]
 }
