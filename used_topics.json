@@ -1078,6 +1078,18 @@
       "subject_key": "availability heuristic",
       "fact": "The availability heuristic makes your brain overestimate the likelihood of events that are easily recalled, even if they are statistically rare.",
       "fingerprint": "statistically availability overestimate incredibly likelihood heuristic shortcut suddenly mistake easily happen mental recall sneaky brain choic crash daily event often"
+    },
+    {
+      "date": "2026-11-03T19:43:42",
+      "category": "focus and attention: why the mind wanders, multitasking, distraction",
+      "format": "myth_vs_truth",
+      "hook_style": "direct_question",
+      "loop_style": "lead_in_loop",
+      "title": "Why Can't You Focus? 🤯",
+      "subject": "focus distraction",
+      "subject_key": "distraction focu",
+      "fact": "Your brain actively processes background distractions, even when you are trying to ignore them, which consumes valuable cognitive resources and drains your focus.",
+      "fingerprint": "distraction background completely cognitive actively actually valuable chatter process resourc consum ignore reason someth block brain doing drain noise think"
     }
   ]
 }
