@@ -1090,6 +1090,30 @@
       "subject_key": "distraction focu",
       "fact": "Your brain actively processes background distractions, even when you are trying to ignore them, which consumes valuable cognitive resources and drains your focus.",
       "fingerprint": "distraction background completely cognitive actively actually valuable chatter process resourc consum ignore reason someth block brain doing drain noise think"
+    },
+    {
+      "date": "2026-11-04T21:32:04",
+      "category": "shopping, money and attention psychology: why we buy, scroll and get hooked",
+      "format": "mystery_explained",
+      "hook_style": "impossible_claim",
+      "loop_style": "answer_loop",
+      "title": "Why You Overvalue Your Own Possessions",
+      "subject": "ownership bias",
+      "subject_key": "bia ownership",
+      "fact": "People subconsciously place a higher value on items they own compared to identical items they do not own, a phenomenon known as the endowment effect.",
+      "fingerprint": "subconsciously phenomenon possession endowment identical overvalue ownership valuable weirdest concert acquir bought compar effect higher moment people simply ticket brain"
+    },
+    {
+      "date": "2026-11-04T21:34:53",
+      "category": "childhood, learning and curiosity: how people learn and why praise/habits stick",
+      "format": "top3",
+      "hook_style": "why_want",
+      "loop_style": "lead_in_loop",
+      "title": "Why Losing Makes You Play More 🤯",
+      "subject": "habit formation",
+      "subject_key": "formation habit",
+      "fact": "Intermittent reinforcement, where rewards are unpredictable, creates the strongest and most persistent habits.",
+      "fingerprint": "reinforcement unpredictable intermittent uncertainty persistent formation strongest constant exactly persist harder reward strong succes brain build creat habit super weird"
     }
   ]
 }
